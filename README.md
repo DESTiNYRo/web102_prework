@@ -16,6 +16,7 @@ The following **required** functionality is completed:
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
+
 List anything else that you can get done to improve the app functionality!
 * [x] Added reavelable fade in as user scrolls down to view games.
 
@@ -27,6 +28,7 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+GetKap for MacOS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
